@@ -2,7 +2,7 @@
 - 👀 I’m interested in data manipulation and app development
 - 🌱 I’m currently learning Java and Python in general
 - 💞️ I’m looking to collaborate on opensource software
-- 📫 Reach me at [my email](https://www.exbyteofficial@gmail.com)
+- 📫 Reach me at #https://www.exbyteofficial@gmail.com
 
 <!---
 Exbyte112/Exbyte112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
