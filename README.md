@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Exbyte
-- 👀 I’m interested in data manipulation and app development
-- 🌱 I’m currently learning Java and Python in general
-- 💞️ I’m looking to collaborate on opensource software
+# Hello there,
+### I'm Exbyte, I build bots and data mining tools, though I'm still on my learning path
+
+Feel free to checkout my work by clicking on any of my public repositories
+
+I'm open to work and you can check [my bot package offerings](https://www.upwork.com/services/product/development-it-a-fully-functional-bot-in-the-shortest-possible-time-1601269426500993024) for whichever type of bot you wanna build
+
+- I'm currently open to collaborating and working with opensource software
 - 📫 Reach me at # exbyteofficial@gmail.com
 
 <!---
