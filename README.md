@@ -1,7 +1,7 @@
 # Hello there,
 ### I'm Exbyte, I build bots and data mining tools, though I'm still on my learning path
 
-[![wakatime](https://wakatime.com/badge/github/Exbyte112/Exbyte112.svg)](https://wakatime.com/badge/github/Exbyte112/Exbyte112)
+[![wakatime](https://wakatime.com/badge/github/Exbyte112/ukubot.svg)](https://wakatime.com/badge/github/Exbyte112/ukubot)
 
 Feel free to checkout my work by clicking on any of my public repositories
 
