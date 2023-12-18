@@ -1,16 +1,9 @@
-# Hello there,
-### I'm Exbyte, I build bots and data mining tools, though I'm still on my learning path
+# Hey there! 👋
 
-Feel free to checkout my work by clicking on any of my public repositories
+I'm Exbyte, a bot and data mining enthusiast on a perpetual learning journey. You'll find a collection of my coding adventures in my public repositories. I love collaborating on cool projects, so hit me up if you've got something interesting going on.
 
-I'm open to work and you can check [my bot package offerings](https://www.upwork.com/services/product/development-it-a-fully-functional-bot-in-the-shortest-possible-time-1601269426500993024) for whichever type of bot you wanna build
+📧 **Email:** exbyteofficial@gmail.com
 
-- I'm currently open to collaborating and working with opensource software
-- 📫 Reach me at # exbyteofficial@gmail.com
- 
-[![Twitter Badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/exbyte_dev)
+🐦 **Twitter:** [Twitter Profile](https://twitter.com/exbyte_dev)
 
-<!---
-Exbyte112/Exbyte112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out the code, and let's geek out together! 🚀
